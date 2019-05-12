@@ -1,0 +1,39 @@
+.wrapper-header {
+  max-width: 962px;
+  margin: 0 auto;
+  height: 72px;
+}
+
+.wrapper-main {
+  max-width: 962px;
+  margin: 0 auto;
+  min-height: 1696px;
+}
+
+.wrapper-footer {
+  margin: 0 auto;
+  max-width: 962px;
+  min-height: 116px;
+}
+
+.wrapper-banner {
+  max-width: 962px;
+  height: 364px;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+
+.wrapper-menu {
+  max-width: 962px;
+  height: 80px;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+}
+
+.wrapper-dishes {
+  max-width: 962px;
+  margin: 0 auto;
+}
