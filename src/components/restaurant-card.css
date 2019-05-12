@@ -1,9 +1,10 @@
-.restaurants-list__restaurant-card{
+.restaurants-list__restaurant-card {
   margin-top: 16px;
   display: flex;
   justify-content: space-between;
   flex-wrap: wrap;
 }
+
 .restaurant-card {
   width: 308px;
   height: 366px;
@@ -31,10 +32,9 @@
 }
 
 .restaurant-card-link {
-text-decoration: none;
+  text-decoration: none;
   height: 100%;
 }
-
 
 .restaurant-card__name {
   font-family: var(--main-font);
